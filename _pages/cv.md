@@ -11,26 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* M.S. in Artificial Intelligence, University of Georgia ,2024 - 2026
+* B.S. in Electronics and Communications Engineering , National Institute of Technology Calicut, 2019-2023
+ 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Machine Learning Researcher
+  * Centre for Product Design and Manufacturing,Indian Institute of Science
+  * 
+  * 
   
 Skills
 ======
