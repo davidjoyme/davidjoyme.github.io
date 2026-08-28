@@ -16,6 +16,6 @@ author_profile: true
 
 ---
 
-## Indian Institute of Science
+## Centre for Product Design and Manufacturing - Indian Institute of Science
 
-* Point two
+* 
