@@ -6,8 +6,11 @@ permalink: /experience/
 author_profile: true
 ---
 
-===
+
 ## MODE2L Lab — University of Georgia, College of Engineering
+
+* Point one 
+ 
 
 
 
@@ -15,3 +18,4 @@ author_profile: true
 
 ## Indian Institute of Science
 
+* Point two
