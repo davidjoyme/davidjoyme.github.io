@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/Resume_David_Joy.pdf" target="_blank" rel="noopener noreferrer"> View My Resume </a>
+<a href="/files/Resume_David_Joy.pdf" target="_blank" rel="noopener noreferrer"> View or Download My Resume </a>
 
 ---
 
