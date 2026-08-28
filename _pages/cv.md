@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-View Resume: 
-
 <a href="/files/Resume_David_Joy.pdf" target="_blank" rel="noopener noreferrer"> View My Resume </a>
+
+---
+
 Education
 ======
 * M.S. in Artificial Intelligence, University of Georgia ,2024 - 2026
