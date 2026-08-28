@@ -8,48 +8,48 @@ author_profile: true
 
 ## Project One
 
-**Short description of the project**
+**Project Name**
 
-A brief explanation of the problem this project solves, why you built it, and what it does.
+A short description of the project. Explain what problem it solves, why you built it, and what the application does.
 
 **Technologies:** Python, Flask, PostgreSQL
 
-* Implemented key feature or functionality.
-* Built or integrated an API.
-* Designed the database or application architecture.
-* Add an interesting technical achievement here.
+* Implemented the main application functionality.
+* Built and integrated REST APIs.
+* Designed the database structure.
+* Added authentication, data processing, or another important feature.
 
-[View on GitHub](https://github.com/yourusername/project-one)
+[View on GitHub](https://github.com/davidjoyme/project-one)
 
 ---
 
 ## Project Two
 
-**Short description of the project**
+**Project Name**
 
-Explain the project in two or three sentences. Focus on what it does and what you learned or accomplished while building it.
+Briefly explain what the project does and what you learned or accomplished while building it.
 
 **Technologies:** React, JavaScript, Node.js
 
 * Built a responsive user interface.
-* Added authentication or another major feature.
-* Integrated external services or APIs.
-* Improved performance, usability, or reliability.
+* Integrated backend APIs.
+* Added authentication and user management.
+* Improved usability and application performance.
 
-[View on GitHub](https://github.com/yourusername/project-two)
+[View on GitHub](https://github.com/davidjoyme/project-two)
 
 ---
 
 ## Project Three
 
-**Short description of the project**
+**Project Name**
 
-Add another project here when you are ready.
+Add a short description of another project here.
 
-**Technologies:** Technology 1, Technology 2, Technology 3
+**Technologies:** Python, JavaScript, Docker
 
-* Key feature or contribution.
-* Key technical challenge.
-* Key result or outcome.
+* Describe one important feature.
+* Mention an interesting technical challenge you solved.
+* Highlight the result or outcome of the project.
 
-[View on GitHub](https://github.com/yourusername/project-three)
+[View on GitHub](https://github.com/davidjoyme/project-three)
