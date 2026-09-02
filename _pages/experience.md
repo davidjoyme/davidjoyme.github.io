@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-## MODE2L Lab - University of Georgia
+## MODEL Lab - University of Georgia
 
 **Research Assistant**  
 *2024 – Present*
@@ -19,9 +19,9 @@ author_profile: true
 
 ## Centre for Product Design and Manufacturing - Indian Institute of Science
 
-**Machine Learning Researcher** 
+**Machine Learning Researcher**  
 *May 2023 – Dec 2023*
 
-* I worked as a machine learning researcher with the web applications team of the [Centre for Product Design and Manufacturing (CPDM)](https://www.iisc.ac.in/locations/centre-for-product-design-and-manufacturing-cpdm/), developing machine learning models for action recognition from videos to automate video analytics for screencast videos. The role was performed under the Supervision of [Dr. Kumari MC](https://www.maynoothuniversity.ie/people/kumari-mc).
+* I worked as a machine learning researcher with the web applications team of the [Centre for Product Design and Manufacturing (CPDM)](https://www.iisc.ac.in/locations/centre-for-product-design-and-manufacturing-cpdm/) at the Indian Institute of Science, developing machine learning models for action recognition from videos to automate video analytics for screencast videos. The role was performed under the Supervision of [Dr. Kumari MC](https://www.maynoothuniversity.ie/people/kumari-mc).
 * Sucessfully developed in-house solutions to replace the [Vosaic software](https://vosaic.com/) saving costs and ensuring data privacy.
 * Developed a machine learning model based on the [ActionNet Paper](https://dl.acm.org/doi/10.1109/ICSE.2019.00049) to perform video action recognition of users. 
