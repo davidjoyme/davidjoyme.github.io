@@ -3,7 +3,7 @@ title: "H3M: Structure-Aligned Heterogeneous Motion Modeling for Multi-Agent Tra
 collection: publications
 category: conferences
 permalink: /publication/H3M
-excerpt: 'Predicting NFL trajectory path using machine learning'
+excerpt: 'Predicting NFL trajectory path using machine learning.'
 date: 2026-08-26
 venue: 'Digital Image Computing: Techniques and Applications (DICTA)'
 # slidesurl: 'https://davidjoyme.github.io/files/slides1.pdf'

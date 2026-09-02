@@ -3,7 +3,7 @@ title: "Tradespace Analysis using GPT: A Comparative Study with Humans"
 collection: publications
 category: manuscripts
 permalink: /publication/Tradespace Analysis using GPT- A Comparative Study with Humans
-excerpt: 'This work explores how AI models like ChatGPT can perform relative to humans in tradespace of product design'
+excerpt: 'This work explores how AI models like ChatGPT can perform relative to humans in tradespace of product design.'
 date: 2026-08-26
 venue: 'Journal of Computing and Information Science in Engineering (JCISE)'
 # slidesurl: 'https://davidjoyme.github.io/files/slides1.pdf'
