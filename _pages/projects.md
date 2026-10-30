@@ -5,24 +5,30 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Mini-Inference — [GitHub](https://github.com/davidjoyme)
 
-## Project 1 
+*Inference Engineering Project*
 
-* Inference Engineering Project 
+- Implemented core components of a lightweight model inference pipeline.
+- Worked on model execution, tensor operations, and inference-time optimizations.
+- Evaluated performance with a focus on latency, memory usage, and efficient execution.
 
-## Project 2 
+---
 
-* Kernel Engineering Project
+## FlashDecode-CUDA — [GitHub](https://github.com/davidjoyme)
 
-## AI Safety + HPC Project 
+*Kernel Engineering Project*
 
-* AI Safety + HPC Project 
+- Developed and optimized CUDA kernels for high-performance decoding workloads.
+- Explored GPU memory access patterns, thread organization, and kernel-level performance optimization.
+- Benchmarked kernel performance to analyze latency and throughput improvements.
 
-## Generative CAD Project
+---
 
-* Generative CAD Project
+## ML Compiler Project — [GitHub](https://github.com/davidjoyme)
 
+*Machine Learning Compiler Project*
 
-
-
-
+- Worked on compiler techniques for optimizing machine learning workloads.
+- Implemented transformations and optimizations at the intermediate representation level.
+- Explored lowering and execution strategies for efficiently mapping ML operations to hardware.
