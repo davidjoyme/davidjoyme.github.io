@@ -25,7 +25,7 @@ author_profile: true
 
 ---
 
-## ML Compiler Project — [GitHub](https://github.com/davidjoyme)
+## Kiln ML Compiler — [GitHub](https://github.com/davidjoyme)
 
 *Machine Learning Compiler Project*
 
