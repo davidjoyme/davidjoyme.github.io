@@ -7,7 +7,7 @@ author_profile: true
 
 ## Mini-Inference — [GitHub](https://github.com/davidjoyme)
 
-*Inference Engineering Project*
+*Python, CUDA C++, Triton, PyTorch*
 
 - Built an LLM inference engine from scratch for MoE (OLMoE-1B-7B) and dense (Qwen3-4B) models: continuous batching, paged KV cache, prefix caching and FP8/INT4 quantization, verified token-exact by 42 tests.
 - Raised throughput 2.3× (1,521 → 3,447 tok/s) with custom Triton and CUDA C++ kernels: fused MoE (37 → 5 launches per layer), paged attention at 92% of peak bandwidth, and CUDA graphs (1.9× lower latency at batch 1).
@@ -17,7 +17,7 @@ author_profile: true
 
 ## FlashDecode-CUDA — [GitHub](https://github.com/davidjoyme)
 
-*Kernel Engineering Project*
+*CUDA C++ , Nsight Compute , PyTorch , Python*
 
 - Wrote a paged GQA decode-attention CUDA kernel for RTX 5090 (sm_120), an architecture with no FlashAttention, FlashInfer, or FlashMLA backend; 6.2–6.7× faster than PyTorch SDPA at working sets beyond L2, via split-KV decomposition and 16-byte vectorized loads (48 registers, 0 spills).
 - Built a Qwen2.5-1.5B decode engine with a paged KV cache and fused RMSNorm kernel, validated bit-exact against HuggingFace across all 28 layers (32/32 activations at 0.0 error, 32/32 greedy tokens); 38-test suite mutation-tested against 9 injected bug classes.
@@ -27,7 +27,7 @@ author_profile: true
 
 ## Kiln ML Compiler — [GitHub](https://github.com/davidjoyme)
 
-*Machine Learning Compiler Project*
+*Python, MLIR, Triton, CUDA*
 
 - Built Kiln, an MLIR-based PyTorch compiler for CPU and GPU (Triton); its fused kernels run 1.7–2.3x faster than eager PyTorch.
 - Reached 49 TFLOP/s (cuBLAS: 42) on an RTX 5090 with autotuned Triton matmuls; GPT-2 block runs 1.2–1.9x faster than PyTorch, matching torch.compile.
