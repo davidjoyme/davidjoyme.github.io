@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Mini-Inference — [GitHub](https://github.com/davidjoyme)
+## Mini-Inference — [GitHub](https://github.com/davidjoyme/mini-inference)
 
 *Python, CUDA C++, Triton, PyTorch*
 
@@ -15,7 +15,7 @@ author_profile: true
 
 ---
 
-## FlashDecode-CUDA — [GitHub](https://github.com/davidjoyme)
+## FlashDecode-CUDA — [GitHub](https://github.com/davidjoyme/flashdecode-cuda)
 
 *CUDA C++ , Nsight Compute , PyTorch , Python*
 
@@ -24,10 +24,10 @@ author_profile: true
 
 ---
 
-## Kiln ML Compiler — [GitHub](https://github.com/davidjoyme)
+## Kiln ML Compiler — [GitHub](https://github.com/davidjoyme/kiln-compiler)
 
 *Python, MLIR, Triton, CUDA*
 
 - Built Kiln, an MLIR-based PyTorch compiler for CPU and GPU (Triton); its fused kernels run 1.7–2.3x faster than eager PyTorch.
-- Achieved 16\% more TFLOPs on an RTX 5090 with autotuned Triton matmuls; a GPT-2 block runs 1.2–1.9x faster than PyTorch, matching Pytorch's compile modules.
+- Achieved 16% more TFLOPs on an RTX 5090 with autotuned Triton matmuls; a GPT-2 block runs 1.2–1.9x faster than PyTorch, matching Pytorch's compile modules.
 - Implemented SM-aware tiling which raised matmul throughput 5x (6.6 → 34.9 TFLOP/s).
